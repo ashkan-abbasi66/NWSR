@@ -18,22 +18,21 @@ Before running the code, you need to do the following steps:
 
 Important m files:
 
-load_train_images.m
+load_train_images.m:
     training High-SNR High-resolution (HH) images
 
-noise_level_in_HH_training_images.m
+noise_level_in_HH_training_images.m:
     estimate noise standard deviation in the training set 
 
-demo_train_dictionary.m
+demo_train_dictionary.m:
     learn a dictionary from training HH images
     or show the atoms of a saved dictionary.
     
-    Note: the file "dictionary_8x8_20it_rand_g165.mat" contains the
-    dictionary that we have trained with this function, as we explained
-    in the paper.
+Note: the file "dictionary_8x8_20it_rand_g165.mat" contains the
+dictionary that we have trained with this function, as we explained in the paper.
 
-demo_NWSR_1xInterp.m
+demo_NWSR_1xInterp.m:
     Denoising experiments
 
-demo_NWSR_2xInterp.m
+demo_NWSR_2xInterp.m:
     Interpolation experiments
