@@ -16,7 +16,7 @@ Before running the code, you need to do the following steps:
     which can be downloaded from 
     http://www.cs.technion.ac.il/~ronrubin/software.html
 
-Important m files:
+**Important m files:**
 
 load_train_images.m:
     training High-SNR High-resolution (HH) images
