@@ -5,8 +5,11 @@ Before running the code, you need to do the following steps:
 1) Download datasets for training and testing from 
     http://people.duke.edu/~sf59/Fang_TMI_2013.htm
 2) Create a "datasets" folder and copy the followings two folders in it:
+    
     For synthetic experiments
+    
     Images for Dictionaries and Mapping leraning
+    
 3) Install SPAMS from http://spams-devel.gforge.inria.fr/downloads.html
     we called "mexOMP" function from SPAMS toolbox in the "sparse_inp_momp.m"
 
