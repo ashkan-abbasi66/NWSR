@@ -2,7 +2,7 @@ This repository contains the code associated with the following paper:
 
 Ashkan Abbasi, Amirhassan Monadjemi, Leyuan Fang, Hossein Rabbani, "Optical coherence tomography retinal image reconstruction via nonlocal weighted sparse representation," J. Biomed. Opt. 23(3), 036011 (2018), doi:10.1117/1.JBO.23.3.036011. 
 
-If you want to use any part of the code, kindly cite the above paper.
+If you find it useful, kindly cite the above paper.
 
 
 **Requirements:**
