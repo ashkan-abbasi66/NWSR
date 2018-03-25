@@ -1,8 +1,9 @@
+**Description:**
 This repository contains the code associated with the following paper:
 
 Ashkan Abbasi, Amirhassan Monadjemi, Leyuan Fang, Hossein Rabbani, "Optical coherence tomography retinal image reconstruction via nonlocal weighted sparse representation," J. Biomed. Opt. 23(3), 036011 (2018), doi:10.1117/1.JBO.23.3.036011. 
 
-If you find it useful, kindly cite the above paper.
+We introduce a method for OCT retinal image denoising and interpolation. If you find it useful, kindly cite the above paper.
 
 
 **Requirements:**
